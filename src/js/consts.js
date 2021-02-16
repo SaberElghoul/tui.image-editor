@@ -242,8 +242,8 @@ export const defaultShapeStrokeValus = {
 export const defaultTextRangeValus = {
   realTimeEvent: true,
   min: 10,
-  max: 100,
-  value: 50,
+  max: 150,
+  value: 100,
 };
 
 export const defaultFilterRangeValus = {

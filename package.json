@@ -1,11 +1,11 @@
 {
-  "name": "tui-image-editor",
-  "author": "NHN FE Development Lab <dl_javascript@nhn.com>",
-  "version": "3.11.0",
+  "name": "tui-image-editor-dc",
+  "author": "DC",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nhn/tui.image-editor.git"
+    "url": "https://github.com/"
   },
   "main": "dist/tui-image-editor.js",
   "files": [
