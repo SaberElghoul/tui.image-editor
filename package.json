@@ -1,11 +1,11 @@
 {
-  "name": "tui-image-editor-dc",
+  "name": "tui-image-editor",
   "author": "DC",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/"
+    "url": "https://github.com/SaberElghoul/tui.image-editor"
   },
   "main": "dist/tui-image-editor.js",
   "files": [
